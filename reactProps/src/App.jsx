@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <PropsInfo name="Kolbie" num={11} bool={true}/>
+      {/* <PropsInfo name="Kolbie" num={11} bool={true}/> */}
       <ArrayMap />
     </div>
   )
